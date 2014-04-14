@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS globaldata;
+CREATE TABLE globaldata(
+	g0 FLOAT(10),
+	g1 FLOAT(10),
+	g2 FLOAT(10),
+	g3 FLOAT(10),
+	g4 FLOAT(10),
+	g5 FLOAT(10),
+	g6 FLOAT(10),
+	g7 FLOAT(10),
+	g8 FLOAT(10),
+	g9 FLOAT(10)
+	);
